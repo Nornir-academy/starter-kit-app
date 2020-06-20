@@ -46,8 +46,10 @@ Now when everything is connected you should:
 
 ## Additional
 This App is just an example of how you can communicate with the device. It's
-not the only way, therefore, you create new features on top of that. Below you
+not the only way, therefore, you can build new features on top of that. Below you
 will find links for other tutorials that will help you freely create custom apps
 and manipulate data as you wish.
 
 ## Links
+- Link for device back-end
+- Link for server-side code
