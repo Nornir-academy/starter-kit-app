@@ -37,3 +37,9 @@ Now when everything is connected you should:
 - Monitor battery life
 - Turn on/off light
 - Send message which should appear on device display
+
+## IMPORTANT!!
+Token is a part of security and therefor don't share it with anyone. Never
+upload code containing token to any source. You can clone this repository and
+run code locally using your browser. If you want run your app on server you need
+to handle security on server side.
