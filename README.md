@@ -1,4 +1,4 @@
-# Nornir Academy Starter Kit Tutorial
+# [Starter Kit App](https://nornir-academy.github.io/starter-kit-app/)
 This is a simple app for bidirectional communication using RTW. Before using it
 make sure that:
 - you have registered and created a service on cioty.com
