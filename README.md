@@ -52,4 +52,4 @@ and manipulate data as you wish.
 
 ## Links
 - Link for device back-end
-- Link for server-side code
+- [Server-side Code](https://github.com/Nornir-academy/starter-kit-server)
