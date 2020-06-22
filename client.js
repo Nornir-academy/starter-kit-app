@@ -1,7 +1,7 @@
 // Connection string
-const channel = "ws://websocket.rtw.no/DOMAIN/SERVICE/INSTANCE/channel"
+const channel = "ws://websocketdev.rtw.no/ACADEMY3/HelloWorld/2/channel"
 // Token
-const token = "aToken_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+const token = "aToken_417dcb08da9034cb9ea248b20a85161024508b5ee4052ec7e74a2f7aaa7f8977"
 // Create new instance of WebSocket
 const ws_channel = new WebSocket(channel)
 

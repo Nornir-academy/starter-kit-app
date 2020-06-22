@@ -7,7 +7,7 @@ can receive and send data back to device. Before using it make sure that:
 ## Connection
 To receive data use this string
 ```
-"ws://websocket.rtw.no/DOMAIN/SERVICE/INSTANCE/channel"
+"ws://websocketdev.rtw.no/DOMAIN/SERVICE/INSTANCE/channel"
 ```
 where:
 - DOMAIN name that you get after registration for example: student
@@ -16,13 +16,13 @@ where:
 
 After it should look like this:
 ```
-"ws://websocket.rtw.no/student/message/2/channel"
+"ws://websocketdev.rtw.no/student/message/2/channel"
 ```
 
 To send data it is almost the same string where on the end instead of channel
 is a string.
 ```
-"ws://websocket.rtw.no/DOMAIN/SERVICE/INSTANCE/string"
+"ws://websocketdev.rtw.no/DOMAIN/SERVICE/INSTANCE/string"
 ```
 
 Also, you need a token to secure connection:
