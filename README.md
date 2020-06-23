@@ -27,7 +27,7 @@ is a string.
 
 Also, you need a token to secure connection:
 ```
-"aToken_417dcb08da9034cb9ea248b20a85131024508b5eedfg2ec7e74a2f7aaa7f8977"
+"aToken_XXXXXXXXXX"
 ```
 You should get it together with student kit.
 
@@ -52,4 +52,4 @@ and manipulate data as you wish.
 
 ## Links
 - Link for device back-end
-- [Server-side Code](https://github.com/Nornir-academy/starter-kit-server)
+- [Starter Kit Server](https://github.com/Nornir-academy/starter-kit-server)
